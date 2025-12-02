@@ -1,0 +1,7 @@
+[project]
+title = GameEventsIO
+version = 1.0.0
+dependencies = 
+
+[library]
+include_dirs = .
