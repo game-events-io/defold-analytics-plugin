@@ -5,7 +5,7 @@ This is the Defold client for [GameEvents.io](https://game-events.io).
 ## Installation
 
 ### Remote (Recommended)
-Add the library ZIP URL to `dependencies` in your `game.project` file.
+Add the library ZIP URL (`https://github.com/game-events-io/defold-analytics-plugin/archive/refs/heads/main.zip`) to `dependencies` in your `game.project` file.
 
 ### Local
 If you have the source code locally (e.g. in a monorepo), simply copy the `game_events_io` folder into your Defold project's directory (e.g. alongside your `main` folder).
