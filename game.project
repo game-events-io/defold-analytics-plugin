@@ -4,4 +4,4 @@ version = 1.0.0
 dependencies = 
 
 [library]
-include_dirs = game-events-io
+include_dirs = game_events_io
